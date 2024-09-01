@@ -10,6 +10,9 @@ Model Training: ALBERT for Sequence Classification was used to build the model. 
 Evaluation: The model's performance was assessed on a validation set, with key metrics including precision, recall, and accuracy.
 
 # Results:
+
 Precision: 96.15%
+
 Recall: 96.15%
+
 Accuracy: 93.75%
